@@ -1,2 +1,9 @@
-# marks-prediction-using-Linear-Regression-ML-
-A simple Python project that uses Linear Regression (via scikit-learn) to predict a student's marks based on the number of study hours. This project demonstrates basic machine learning concepts and model prediction using minimal code.
+# Student Score Predictor
+
+A simple Python program that uses Linear Regression (from scikit-learn) to predict student marks based on study hours.
+
+## How to run
+
+```bash
+pip install scikit-learn
+python student_score_predictor.py
